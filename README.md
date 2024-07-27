@@ -13,6 +13,7 @@ This project aims to analyze an online store's sales data, compute various reven
 6. [Docker Instructions](#docker-instructions)
     - [Building Docker Containers](#building-docker-containers)
     - [Running Docker Containers](#running-docker-containers)
+7. [Notes](#notes)
 
 ## Overview
 
@@ -115,5 +116,11 @@ docker run --name service-2-container service-2
 ```
 
 By following these instructions, you can execute the revenue calculations, run the tests, and deploy the applications using Docker. 
+
+## Notes
+- `Testing Module`: The test.py script was created with the assistance of an AI co-pilot.
+- `Task Code`: The task.py script was developed following standard documentation and best practices.
+- `Docker Knowledge`: The Dockerization process was carried out based on basic documentation, considering limited and bare minimum Docker knowledge.
+By following these instructions, you can execute the revenue calculations, run the tests, and deploy the applications using Docker.
 
 ---
