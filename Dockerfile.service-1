@@ -1,0 +1,11 @@
+# Dockerfile.service-1
+FROM python:3.12-slim
+
+WORKDIR /app
+
+COPY task.py .
+COPY orders.csv .
+
+RUN pip install pandas
+
+CMD ["python", "task.py"]
