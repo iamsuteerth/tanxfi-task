@@ -105,7 +105,7 @@ docker build -t service-2 -f Dockerfile.service-2 .
 
 ### Running Docker Containers
 
-Run the Docker containers using the built images:
+Run the Docker containers using the built images (If the containers are not built)
 
 ```bash
 # Run the container for service-1
@@ -114,8 +114,6 @@ docker run --name service-1-container service-1
 # Run the container for service-2
 docker run --name service-2-container service-2
 ```
-
-By following these instructions, you can execute the revenue calculations, run the tests, and deploy the applications using Docker. 
 
 ## Notes
 - `Testing Module`: The test.py script was created with the assistance of an AI co-pilot.
