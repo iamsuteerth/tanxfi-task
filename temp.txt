@@ -1,0 +1,168 @@
+Embracing Change: Growth and Resilience
+"How big would you dream if you knew you couldn’t fail?"
+
+This is a simple adage that forces you to really broaden your minds and feels like a very grand epiphany! This is something which I realised while reading a small book; having no expectations before I began.
+
+A maze is the perfect metaphor for life, it’s full of unexpected twists, turns and awkward impasse. But you’re often presented with opportunities to learn from the setbacks life throws at you, which can be ventures for new cycles of growth.
+
+Yet, it’s not the setbacks that define us, it’s how we respond to them that truly sets us apart. And this happens to everyone, even the best of us but a small but powerful reminder stays with me:
+“It’s only a little extra that separates the ordinary from the extraordinary.”
+
+I was presented with one such opportunity as well, and it came in the form of a loss I never really anticipated. A bond or connection I believed would be there incessantly. Due to my attachment, I was unable to cope with the change and it was very bitter. But as I later realised, every experience carries a lesson—if you’re willing to learn from it.
+
+What went wrong?
+Comfort turned into complacency…
+More often than not, comfort can often make you reluctant or ignorant to changes in your life. I too became very comfortable with the someone’s presence in my life, unaware of what’s really happening. 
+
+And when things changed, I clung to the hope that everything would eventually go back to how it was. I poured in endless effort, waiting, hoping and running in a loop like a hamster on a wheel, without realising that the world had already moved on.
+
+Comfort can be deceptive. It can blind you to change, making you hold on to what’s no longer there, to something that doesn’t serve you anymore. I was a victim of this, and life had other plans for me.
+
+My mistakes and missteps…
+Holding on when I should have let go…
+It’s not like this person disappeared overnight, or that the change occurred suddenly. It never does, you’re just usually unaware or ignorant to the small changes that it all feels like it happened at once later on.
+* I kept asking, “Why me? Why did this happen? Don’t I deserve better?”
+* I feared the unknown and resisted moving forward alone.
+* I wasted energy on things not in my control instead of focusing on how to respond.
+* I tried out the same things expecting different outcomes each time.
+
+The shift in perspective…
+A Book that opened my eyes…
+After struggling a lot, not being come up with a tangible solution. I came across a book that changed everything for me: “Who Moved My Cheese?” by Spencer Johnson.
+
+It inspired me to imagine myself living a new life—a life bigger and brighter than the one I once held onto.
+
+From loss to possibility
+I pictured myself in new surroundings, in an environment where I’m thriving, surrounded by people who inspire me every single day, feed my will to do more, to be extraordinary. I envisioned myself to be better, invigorated with the excitement of building something better for myself.
+
+With each step, the vision felt more real. My focus shifted from what I lost to what I could gain.
+
+The lesson here is that, “Holding on to the past only delays your future”, change is inevitable and when you embrace it, you set yourself free, you’re ready to venture off into the maze of life once again, to find something better.
+
+What I learned
+* Stay Adaptable : Change is inevitable. The faster you embrace it, the sooner you’ll find new opportunities.
+* Let Go of Fear : Fear is often a barrier we create to avoid the unknown. Ask yourself: What would I do if I weren’t afraid?
+* Watch for the Early Signs : Life gives you early warnings before major changes. Pay attention, and you’ll be better prepared.
+* Rethink Old Beliefs : The beliefs that served you in the past may no longer help in the present. Be open to evolution.
+* Keep Moving Forward : Staying stuck in the past delays your future. The moment you take action, new possibilities arise. Just remember this line from one of the all time classic movie - The Shawshank Redemption, “We just have to put it behind us, move on”
+* Visualise Your Future : Imagine the life you want, and work towards it with conviction. When you believe in your future, it becomes more attainable.
+* Trust the Process : Exploring new paths is more rewarding than staying stagnant. Growth lives on the other side of discomfort. So get out of your comfort zone to stand out.
+
+The road ahead…
+Growth isn’t about avoiding change-it’s about embracing it. The person I was is different from who I am now and that’s a good thing. 
+
+Every single day is a step that brings me closer to a future filled with purpose, new opportunities and dreams bigger than what I had before. 
+
+Change and pain are scary and bitter, but they’re the biggest catalysts for transformation.
+
+When you stop resisting and look within yourself, when you explore the maze of life with vigour, you’ll realise how much potential lies ahead. I found strength in embracing change, stronger than before, with dreams bigger than anything I’ve ever had and courage to move forward despite the uncertainty because I’m more likely to find myself out there, than being in the situation I was.
+
+What’s holding you back from embracing your own journey of transformation? Trust the process, keep moving, believe that something better is coming for you as a reward for what you went through. Don’t worry about anything else, life has a unique way of restoring balance. What goes around, comes around so don’t worry about things feeling unfair. Your time will come soon and you’ll realise that it was all for a reason.
+
+
+---
+
+Building a Modern Portfolio with Next.js, MDX and AWS
+Showcasing Achievements, Projects, Insights and Persona
+This personal portfolio is more than just a website-it’s a digital reflection of my journey, achievements, my insights, expertise and things beyond my resume. I wanted to create something using all the knowledge I have, my best skills put to test and a platform to showcase more than what I have to offer professionally! 
+
+So I set out to create a modern, high performance website made using the latest technologies, following the BEST practices to build a platform for blogging, documenting experiences and my journey and sharing insights.
+
+So why Next.js and MDX?
+Next.js is a production framework built on top of react expanding its capabilities which builds server-side rendered apps. React.js is still the app’s foundation, but the structural and navigation mechanisms are different altogether.
+
+- Server-Side-Rendering (SSR) speeds up everything, letting the server do the heavy lifting allowing for blazing fast load times as demonstrated on this app.
+
+- Static Site Generation (SSG) allows for static content to be generated at build time which is then distributed by a Content Delivery Network (CDN)
+
+- Dynamic Routing is another feature of Next.js which is what I use to create routes from dynamic data as seen in the URLs for blogs achieved via`[slug]`
+
+- MDX allows me to write content in simple markdown and also integrate React components!
+
+
+Project Overview
+Tech Stack
+- Framework : Next.js
+- Content Generation : MDX
+- Styling : Sass + PostCSS
+- Syntax Highlighting in content : Prism.js
+- Deployment and CI/CD : Vercel
+- Email and Rate Limit : AWS
+
+Features
+- Dynamic Routing
+    - Used for blogs, highlights and project descriptions where the segments are filled in at request time or pre-rendered on build and served statically.
+- MDX Integration
+    - Write down posts’ dynamic content in simple markdown leveraging full advantage of react components enabling interactive and rich content.
+- Customisable Themes
+    - Built using Sass and PostCSS, allowing for easy styling and adaptability.
+- UI Features
+    - Interactive background, contact me dialog, dynamic grid layouts, responsive layout irrespective of device type, animated elements, in-page navigation etc.
+- High performance rendering
+    - The website is optimised for performance with SSG and Incremental Static Regeneration (ISR). Allows updating static website content without rebuilding the entire site and reduce server load by serving pre-rendered static pages.
+- Syntax highlighting for code snippets
+    - Utilising Prism.js allowing the blogs I write to support syntax highlighting for technical posts.
+- Custom Email Sending Service using AWS
+    - AWS SES to send emails to myself from my custom domain with user content from the Contact Me dialog.
+    - Email sending service triggered with AWS Lambda function written in `GoLang` to implement this functionality.
+    - Uses API Gateway to handle API end points and handle rate limits using Dynamo DB.
+
+Project Structure
+<FOLDER STRUCTURE>
+
+AWS Solution Architecture Created By Me
+This project leverages multiple AWS services to create a seamless email sending functionality which sends the user submitted data to me from my own domain. I put in a lot of effort to ensure that all API keys are securely hidden and AWS services are configured properly.
+
+<IMAGE>
+
+AWS Services Used:
+* API Gateway : To expose my AWS Lambda function via a REST API.
+* AWS Lambda:
+    * sendEmailFromContactMe : Written in GoLang, this function processes requests and sends emails using AWS SES.
+    * rateLimitEmailDDB : Written in GoLang, acting as an Authorizer to implement rate limitation, which creates a unique hash of user:agent and client_ip and sets a TTL of 12 hours in the user-rate-limit table. If the database has this field, the response is 403; otherwise, 200.
+* Amazon SES (Simple Email Service) : For sending emails from my custom domain mail@suteerth-subramaniam.com to my work email.
+* Amazon DynamoDB : NoSQL Key-Value database to store the user hash and implement rate limits.
+* AWS CloudFormation : To create all the necessary roles and permission integration for DynamoDB and the rate limit lambda function.
+
+How it all works?
+Setting up SES
+* Configure Amazon SES to send emails from the custom domain.
+* Update DNS configuration to verify the domain and enable SES email sending.
+
+sendEmail Lamda Function
+* This lambda function is written in GoLang to handle the requests quickly and send an email to me from the request body content.
+* <CODE>
+* Configured IAM Roles and Policies to allow the Lambda function to send emails via SES.
+* Steps to Compile the Go Binary:
+* <CODE>
+	This builds the Go binary in the correct format for AWS Lambda.
+
+Exposing the lambda function through API Gateway
+* Exposed the Lambda function using AWS API Gateway.
+* Configured request methods, response formats, and error handling.
+* Enabled API key security.
+* Added an AWS Lambda Authorizer of request type for rate protection.
+* Authorization headers:
+    * x-api-key
+    * x-forwarded-for
+    * user-agent
+* It is important to set authorisation caching to 1 so that the results are not cached on user devices.
+
+* rateLimit Authorisation Lamda Function
+* This lambda function is written in GoLang to handle the requests quickly and generate policies as quickly as possible to make the requests extremely fast.
+* Computes a hash made with user IP and user agent (browser).
+* Stores this hash into DDB with a TTL of 12 hours.
+* Returns 200 status code if it doesn't find the key and allow invocation of the lambda function.
+* Returns 403 status code if it is able to find the key (enforce rate limit) and deny the sendEmail lambda function.
+
+Creating coupled DB and Lambda Authorisation Function
+<SCRIPT>
+
+API Key Security & Efforts: 🔒
+All API keys are securely hidden using environment variables. This was a crucial step to prevent unauthorized access and ensure the security of the application. A lot of effort went into learning how to integrate AWS services, secure API keys, and make this setup reliable and enforce RATE LIMITS.
+The Lambda authorization added a new decoupled vertical where I can control the number of requests every user can make involving usage of multiple AWS services.
+
+The Journey & Learnings
+* I started off with the intention of creating a simple portfolio website. But as I built, I started enjoying the development cycle and thought about new-features on the fly!
+* It forced me to think out of the box and consider different scenarios and it brought out my creativity!
+* The ambition drove me to create a completely brand new AWS oriented solution to handle rate limits and email sending functionality demonstrating my technical proficiency with AWS.
